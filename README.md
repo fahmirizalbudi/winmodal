@@ -40,7 +40,7 @@ WinModal.WinModal.Show(this, modal);
 ### Using Options
 
 You can customize modal behavior using `WinModalOptions`.
-Options allow you to configure overlay color, opacity, animation speed, and more.
+Options allow you to configure transition, draggable, and overlay.
 
 ```csharp
 var options = new WinModalOptions
