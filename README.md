@@ -7,7 +7,7 @@ A lightweight and customizable modal dialog library for **C# Windows Forms**. **
 * Simple and minimal implementation for WinForms
 * Overlay background
 * Centered modal window display
-* Optional animations (fade-in, fade-out)
+* Optional animations (fade-in, <strike>fade-out</strike>)
 * Static class usage for easy integration
 * Clean separation between parent form, modal form, and overlay
 
